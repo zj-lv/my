@@ -1,1 +1,0 @@
-location.replace('./page/login/index.html')
